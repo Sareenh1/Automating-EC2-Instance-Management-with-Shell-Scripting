@@ -1,0 +1,1 @@
+# Automating-EC2-Instance-Management-with-Shell-Scripting
